@@ -27,6 +27,5 @@ function app(counter){
 
 }
 
-//let action = prompt('What would you do?: ');
 
 app(0)
